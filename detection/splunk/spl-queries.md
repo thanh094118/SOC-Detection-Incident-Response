@@ -3,7 +3,7 @@
 This document lists the basic Splunk searches used to detect suspicious activities generated in the SOC lab.
 
 The queries focus on identifying abnormal HTTP behavior and possible brute-force login attempts.
-
+ascdas  sd
 ---
 
 ## 1. Detect Suspicious HTTP Requests (SQL Injection Patterns)
