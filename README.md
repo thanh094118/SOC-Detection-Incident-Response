@@ -33,7 +33,7 @@ casc
 - Repeated authentication failures from a single source IP (401 spike)
 - IDS alerts triggered by web attack signatures
 - Multi-port connection attempts in pfSense firewall logs
-    
+    esfsdg
 ---
 **Objective:** Understand how web attacks generate logs, IDS alerts, and SIEM telemetry within a full SOC monitoring and incident response pipeline.
 
