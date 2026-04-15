@@ -7,7 +7,7 @@ This lab simulates common web application attacks against a vulnerable web appli
 The objective is to reproduce a simplified SOC workflow:
 
 Attack Traffic → IDS Detection → SIEM Investigation → Incident Analysis  
-
+asdasd
 ## Lab Environment
 
 Components used in this lab:
