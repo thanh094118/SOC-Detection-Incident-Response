@@ -1,7 +1,7 @@
 # SOC Monitoring Lab — Attack Detection & Incident Response
 dsadfdiuhsadddaiuhs
 ![Lab Architecture](diagram/architecture-network.png)
-sdsad
+  
 Simulating a full **Attack → Detection → Incident Response** pipeline to develop SOC L1/L2 skills using real security telemetry.  
 <sub><i>Lab environment: Kali (attacker), pfSense (firewall), Ubuntu + DVWA (target), Snort (IDS), Splunk (SIEM)</i></sub>  
 <sub><i>Attacks simulated against the vulnerable web application: <a href="https://github.com/digininja/DVWA">[DVWA]</a></i></sub>  
