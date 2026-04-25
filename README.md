@@ -6,6 +6,7 @@ Simulating a full **Attack → Detection → Incident Response** pipeline to dev
 <sub><i>Lab environment: Kali (attacker), pfSense (firewall), Ubuntu + DVWA (target), Snort (IDS), Splunk (SIEM)</i></sub>  
 <sub><i>Attacks simulated against the vulnerable web application: <a href="https://github.com/digininja/DVWA">[DVWA]</a></i></sub>  
 <sub><i>Attack scenarios based on common vulnerabilities from <a href="https://owasp.org/www-project-top-ten/">[OWASP Top 10]</a></i></sub>
+êksjfbsdfsx
 
 ## Skills & Technologies
 **Security:** Web attack detection, IDS rule writing, SIEM correlation, incident triage  
